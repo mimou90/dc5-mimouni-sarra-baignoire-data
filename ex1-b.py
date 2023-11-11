@@ -1,3 +1,6 @@
+#Manipulation de chaînes : Demandez à l'utilisateur de saisir une phrase, puis affichez la phrase en majuscules, en minuscules et le nombre de mots
+
+
 def Majuscules(chaine):
     chaine_majuscules = []
     for caractere in chaine:

@@ -1,3 +1,6 @@
+#Créez des variables pour stocker le nom d'une entreprise, le nombre de clients et le 
+#revenu moyen par client. Calculez et affichez le revenu total.
+
 nom_entreprise = "Enedis"
 nombre_de_clients = 1000
 revenu_moyen_par_client = 50000.0
